@@ -2,7 +2,7 @@
 
 
 
-##### Instale globalmente o pacote`:
+##### Instale globalmente o pacote:
 
 ```console
 user-root:~$ yarn global add react-create
@@ -10,7 +10,6 @@ user-root:~$ npm install -g react-create
 ```
 
 ##### Use o seguinte comando na pasta onde quer criar o projeto, depois de instalado `react-create`:
-#### Usamos a convenção de commits de código. Por que usar?
 - **Digite o nome do projeto quando requisitado**
 - **Aguarde até o final ele irá configurar tudo automaticamente pra você**
 
