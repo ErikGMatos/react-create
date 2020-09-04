@@ -5,8 +5,8 @@
 ##### Instale globalmente o pacote:
 
 ```console
-user-root:~$ yarn global add react-create
-user-root:~$ npm install -g react-create
+user-root:~$ yarn global add react-create-erik
+user-root:~$ npm install -g react-create-erik
 ```
 
 ##### Use o seguinte comando na pasta onde quer criar o projeto, depois de instalado `react-create`:
